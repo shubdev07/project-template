@@ -88,6 +88,10 @@ a:focus, a:hover {
     position: relative;
     clear: both;
 }
+.affix {
+    top: 0px;
+    width: 100%;
+}
 
 span.divider {
     display: block;
